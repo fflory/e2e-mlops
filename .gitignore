@@ -36,3 +36,5 @@ htmlcov/*
 
 # local mlflow files
 mlruns/
+
+*.parquet
